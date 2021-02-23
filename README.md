@@ -16,7 +16,7 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
-After installation, Create a virtual environment to install the things need to do. *Stock DB is not uploaded so check dropbox to get db.sqlite3.* And run `pip install -r requirements.txt` and run `python manage.py runserver`. Then you can see that our page is working. 
+After installation, Create a virtual environment to install the things need to do. *Stock DB is not uploaded so check googledrive to get db.sqlite3.* And run `pip install -r requirements.txt` and run `python manage.py runserver`. Then you can see that our page is working. 
 
 
 ```
